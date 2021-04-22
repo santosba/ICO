@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Django"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"eslint.enable": false,
+		"liveServer.settings.multiRootWorkspaceName": "ICO-vrp"
+	}
+}
